@@ -1,0 +1,17 @@
+[
+    {
+        "img": "https://cdn2.photostockeditor.com/c/0601/bottle-cocooil-baby-oil-on-desk-lotion-lotion-image.jpg",
+        "name": "Cocooil",
+        "price": "30$"
+    },
+    {
+        "img": "https://www.haus.de/sites/default/files/styles/textbreite_2_spalten_tablet_klein/public/gutewahl/2020-03/Sofortbildkamera_Polaroid%20OneStep%2B-3.jpg?itok=QA7wdMps",
+        "name": "Polariod",
+        "price": "40$"
+    },
+    {
+        "img": "http://shopping.wavatmospheric.com/wp-content/uploads/2020/05/bamboo-fibers-shampoo.jpg",
+        "name": "Maui Moisture",
+        "price": "60$"
+    }
+]
